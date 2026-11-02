@@ -1,5 +1,5 @@
-# 30DaysMapChallenge.2026
-Day1 points
+# 30DaysMapChallenge.2026 🌍
+Day1 "Points"
 
 my_map = folium.Map(location=[41.457298,69.574387],zoom_start=12)
 
