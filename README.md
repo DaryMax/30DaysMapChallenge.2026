@@ -1,4 +1,6 @@
 # 30DaysMapChallenge.2026
+Day1 points
+
 my_map = folium.Map(location=[41.457298,69.574387],zoom_start=12)
 
 folium.Marker(location=[41.466548,69.580238],
